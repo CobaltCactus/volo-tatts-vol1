@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="CharacterCreationAppearanceMaterials">
+        <node id="root">
+            <children>
+                <node id="CharacterCreationAppearanceMaterial">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hd8d554c4g58feg988bgbf57gf57ed0a0f9b8" version="1"/>
+                    <attribute id="FemaleCameraName" type="FixedString" value="Camera_02"/>
+                    <attribute id="FemaleRootTemplate" type="guid" value="7957d6fb-e8e1-4017-af63-56d4854fd84f"/>
+                    <attribute id="MaleCameraName" type="FixedString" value="Camera_02"/>
+                    <attribute id="MaleRootTemplate" type="guid" value="903b38b5-2703-40b4-9208-3ef388817543"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="MaterialType" type="FixedString" value="Tattoo"/>
+                    <attribute id="Name" type="FixedString" value="Tattoo_0"/>
+                    <attribute id="UUID" type="guid" value="00894ccc-31ee-4527-94d5-a408cccb3583"/>
+                </node>
+                <node id="CharacterCreationAppearanceMaterial">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hdc59ce32g9483g4858gf305gaadeab13f305" version="2"/>
+                    <attribute id="FemaleCameraName" type="FixedString" value="Camera_02"/>
+                    <attribute id="FemaleRootTemplate" type="guid" value="dd86886c-a466-415a-9b7b-5be0c2c0b535"/>
+                    <attribute id="MaleCameraName" type="FixedString" value="Camera_02"/>
+                    <attribute id="MaleRootTemplate" type="guid" value="fb7a1a23-4ac5-4e77-8015-b2d284a1e446"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="ade5af37-4c3a-2e1b-322c-115a070cfb5f"/>
+                    <attribute id="MaterialType" type="FixedString" value="Tattoo"/>
+                    <attribute id="Name" type="FixedString" value="Tattoo_1_000"/>
+                    <attribute id="UUID" type="guid" value="3f598983-1e57-474e-b677-d51b47c90402"/>
+                </node>
+                <node id="CharacterCreationAppearanceMaterial">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hd60d9542g70c8g7a05ga1ddg4a78007eaa9f" version="2"/>
+                    <attribute id="FemaleCameraName" type="FixedString" value="Camera_01"/>
+                    <attribute id="FemaleRootTemplate" type="guid" value="dd86886c-a466-415a-9b7b-5be0c2c0b535"/>
+                    <attribute id="MaleCameraName" type="FixedString" value="Camera_01"/>
+                    <attribute id="MaleRootTemplate" type="guid" value="fb7a1a23-4ac5-4e77-8015-b2d284a1e446"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="5f95d463-6258-ed73-9bcd-3bb6c6277f2d"/>
+                    <attribute id="MaterialType" type="FixedString" value="Tattoo"/>
+                    <attribute id="Name" type="FixedString" value="Tattoo_2_000"/>
+                    <attribute id="UUID" type="guid" value="060c331c-4c27-465b-8cf3-eb80015ecd8a"/>
+                </node>
+                <node id="CharacterCreationAppearanceMaterial">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hd13bc5f8g1c37gfd29g7fc1g7b8d67c5b3e7" version="2"/>
+                    <attribute id="FemaleCameraName" type="FixedString" value="Camera_02"/>
+                    <attribute id="FemaleRootTemplate" type="guid" value="dd86886c-a466-415a-9b7b-5be0c2c0b535"/>
+                    <attribute id="MaleCameraName" type="FixedString" value="Camera_02"/>
+                    <attribute id="MaleRootTemplate" type="guid" value="fb7a1a23-4ac5-4e77-8015-b2d284a1e446"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="50d59456-5899-41b2-75ec-ed2be571e593"/>
+                    <attribute id="MaterialType" type="FixedString" value="Tattoo"/>
+                    <attribute id="Name" type="FixedString" value="Tattoo_3_000"/>
+                    <attribute id="UUID" type="guid" value="5c0c9221-08f6-472c-9c91-4478b23481e1"/>
+                </node>
+                <node id="CharacterCreationAppearanceMaterial">
+                    <attribute id="DisplayName" type="TranslatedString" handle="heba15d3fgb3cbg9d40ge468gf2225495fd07" version="2"/>
+                    <attribute id="FemaleCameraName" type="FixedString" value="Camera_01"/>
+                    <attribute id="FemaleRootTemplate" type="guid" value="dd86886c-a466-415a-9b7b-5be0c2c0b535"/>
+                    <attribute id="MaleCameraName" type="FixedString" value="Camera_01"/>
+                    <attribute id="MaleRootTemplate" type="guid" value="fb7a1a23-4ac5-4e77-8015-b2d284a1e446"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="faa14a93-815b-0f92-adf9-de6f39cf885c"/>
+                    <attribute id="MaterialType" type="FixedString" value="Tattoo"/>
+                    <attribute id="Name" type="FixedString" value="Tattoo_4_000"/>
+                    <attribute id="UUID" type="guid" value="715ac24d-97cc-4409-aafe-75bc6a543ae0"/>
+                </node>
+                <node id="CharacterCreationAppearanceMaterial">
+                    <attribute id="DisplayName" type="TranslatedString" handle="ha34e0d38g5cbbg39b9g7099g2d04cf830a03" version="2"/>
+                    <attribute id="FemaleCameraName" type="FixedString" value="Camera_01"/>
+                    <attribute id="FemaleRootTemplate" type="guid" value="dd86886c-a466-415a-9b7b-5be0c2c0b535"/>
+                    <attribute id="MaleCameraName" type="FixedString" value="Camera_01"/>
+                    <attribute id="MaleRootTemplate" type="guid" value="fb7a1a23-4ac5-4e77-8015-b2d284a1e446"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="775c63e6-127d-7ed4-8b9c-8384456fe5ba"/>
+                    <attribute id="MaterialType" type="FixedString" value="Tattoo"/>
+                    <attribute id="Name" type="FixedString" value="Tattoo_5_000"/>
+                    <attribute id="UUID" type="guid" value="eef98cc5-c456-4f08-896d-9b75b24267a3"/>
+                </node>
+                <node id="CharacterCreationAppearanceMaterial">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h1f7ac3c9g5466ge6cdg25f3g900987607528" version="2"/>
+                    <attribute id="FemaleCameraName" type="FixedString" value="Camera_02"/>
+                    <attribute id="FemaleRootTemplate" type="guid" value="dd86886c-a466-415a-9b7b-5be0c2c0b535"/>
+                    <attribute id="MaleCameraName" type="FixedString" value="Camera_02"/>
+                    <attribute id="MaleRootTemplate" type="guid" value="fb7a1a23-4ac5-4e77-8015-b2d284a1e446"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="45416329-7e15-6196-be09-317a26bd7c92"/>
+                    <attribute id="MaterialType" type="FixedString" value="Tattoo"/>
+                    <attribute id="Name" type="FixedString" value="Tattoo_6_000"/>
+                    <attribute id="UUID" type="guid" value="2d20d063-a9db-465a-9e8e-51979e5d842e"/>
+                </node>
+                <node id="CharacterCreationAppearanceMaterial">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h29e84bbcg6015g5d54g0778g039d1e112109" version="2"/>
+                    <attribute id="FemaleCameraName" type="FixedString" value="Camera_01"/>
+                    <attribute id="FemaleRootTemplate" type="guid" value="dd86886c-a466-415a-9b7b-5be0c2c0b535"/>
+                    <attribute id="MaleCameraName" type="FixedString" value="Camera_01"/>
+                    <attribute id="MaleRootTemplate" type="guid" value="fb7a1a23-4ac5-4e77-8015-b2d284a1e446"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="020c30d9-59a1-7481-46ba-40cdd64fc747"/>
+                    <attribute id="MaterialType" type="FixedString" value="Tattoo"/>
+                    <attribute id="Name" type="FixedString" value="Tattoo_7_000"/>
+                    <attribute id="UUID" type="guid" value="a27fdba5-884a-43f5-9951-c2e52ca2f9d6"/>
+                </node>
+                <node id="CharacterCreationAppearanceMaterial">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h3c91f19eg8807g3aeagbf92g11adfc1111db" version="2"/>
+                    <attribute id="FemaleCameraName" type="FixedString" value="Camera_02"/>
+                    <attribute id="FemaleRootTemplate" type="guid" value="dd86886c-a466-415a-9b7b-5be0c2c0b535"/>
+                    <attribute id="MaleCameraName" type="FixedString" value="Camera_02"/>
+                    <attribute id="MaleRootTemplate" type="guid" value="fb7a1a23-4ac5-4e77-8015-b2d284a1e446"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="116b7403-16b3-832a-ada4-96f73b025e56"/>
+                    <attribute id="MaterialType" type="FixedString" value="Tattoo"/>
+                    <attribute id="Name" type="FixedString" value="Tattoo_8_000"/>
+                    <attribute id="UUID" type="guid" value="a6f7a158-3a4d-4db6-b47c-221fdde5bae6"/>
+                </node>
+                <node id="CharacterCreationAppearanceMaterial">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h63013f99gfccfgbb6fgb6f3g86c4ef6ccae6" version="2"/>
+                    <attribute id="FemaleCameraName" type="FixedString" value="Camera_01"/>
+                    <attribute id="FemaleRootTemplate" type="guid" value="dd86886c-a466-415a-9b7b-5be0c2c0b535"/>
+                    <attribute id="MaleCameraName" type="FixedString" value="Camera_01"/>
+                    <attribute id="MaleRootTemplate" type="guid" value="fb7a1a23-4ac5-4e77-8015-b2d284a1e446"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="17aba2b4-9bad-17ae-3d9e-ce72cfb0d9cf"/>
+                    <attribute id="MaterialType" type="FixedString" value="Tattoo"/>
+                    <attribute id="Name" type="FixedString" value="Tattoo_9_000"/>
+                    <attribute id="UUID" type="guid" value="c84b32c1-0254-4eb7-9e78-44ff2f552b6b"/>
+                </node>
+                <node id="CharacterCreationAppearanceMaterial">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h05a921d8gfe33g36cbga334g0d950c91b1e6" version="2"/>
+                    <attribute id="FemaleCameraName" type="FixedString" value="Camera_02"/>
+                    <attribute id="FemaleRootTemplate" type="guid" value="dd86886c-a466-415a-9b7b-5be0c2c0b535"/>
+                    <attribute id="MaleCameraName" type="FixedString" value="Camera_02"/>
+                    <attribute id="MaleRootTemplate" type="guid" value="fb7a1a23-4ac5-4e77-8015-b2d284a1e446"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="a62c5207-4bcc-2481-c06c-fe7f17a04165"/>
+                    <attribute id="MaterialType" type="FixedString" value="Tattoo"/>
+                    <attribute id="Name" type="FixedString" value="Tattoo_10_000"/>
+                    <attribute id="UUID" type="guid" value="a9968a6a-5de3-4daf-ad58-b26ecef3bfa0"/>
+                </node>
+                <node id="CharacterCreationAppearanceMaterial">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hf1321a17gfd3bg51c2gf7degb3cf4859326f" version="2"/>
+                    <attribute id="FemaleCameraName" type="FixedString" value="Camera_01"/>
+                    <attribute id="FemaleRootTemplate" type="guid" value="dd86886c-a466-415a-9b7b-5be0c2c0b535"/>
+                    <attribute id="MaleCameraName" type="FixedString" value="Camera_01"/>
+                    <attribute id="MaleRootTemplate" type="guid" value="fb7a1a23-4ac5-4e77-8015-b2d284a1e446"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="3466d02e-432c-aa02-1260-290f03382ba7"/>
+                    <attribute id="MaterialType" type="FixedString" value="Tattoo"/>
+                    <attribute id="Name" type="FixedString" value="Tattoo_11_000"/>
+                    <attribute id="UUID" type="guid" value="913fd085-7ee9-4782-b1c3-5043326e9edb"/>
+                </node>
+                <node id="CharacterCreationAppearanceMaterial">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h6e1913d3gfdc6g3b49gb1a7gf670141bf1df" version="2"/>
+                    <attribute id="FemaleCameraName" type="FixedString" value="Camera_02"/>
+                    <attribute id="FemaleRootTemplate" type="guid" value="dd86886c-a466-415a-9b7b-5be0c2c0b535"/>
+                    <attribute id="MaleCameraName" type="FixedString" value="Camera_02"/>
+                    <attribute id="MaleRootTemplate" type="guid" value="fb7a1a23-4ac5-4e77-8015-b2d284a1e446"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="68a7074d-321b-313e-27aa-45457abd4211"/>
+                    <attribute id="MaterialType" type="FixedString" value="Tattoo"/>
+                    <attribute id="Name" type="FixedString" value="Tattoo_12_000"/>
+                    <attribute id="UUID" type="guid" value="791c8b61-8152-4f67-be12-414cb2e0ca81"/>
+                </node>
+                <node id="CharacterCreationAppearanceMaterial">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h6e2a6862g8a5cgca68ge62dg7967dcbc8cc1" version="2"/>
+                    <attribute id="FemaleCameraName" type="FixedString" value="Camera_01"/>
+                    <attribute id="FemaleRootTemplate" type="guid" value="dd86886c-a466-415a-9b7b-5be0c2c0b535"/>
+                    <attribute id="MaleCameraName" type="FixedString" value="Camera_01"/>
+                    <attribute id="MaleRootTemplate" type="guid" value="fb7a1a23-4ac5-4e77-8015-b2d284a1e446"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="57df03cd-a070-b155-8e08-1564a296d9df"/>
+                    <attribute id="MaterialType" type="FixedString" value="Tattoo"/>
+                    <attribute id="Name" type="FixedString" value="Tattoo_13_000"/>
+                    <attribute id="UUID" type="guid" value="8575b393-1301-42dc-a586-ab75e40b6ad3"/>
+                </node>
+                <node id="CharacterCreationAppearanceMaterial">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hf35d69bbg9b99g4673g610ag3ce9c1c8dd3a" version="2"/>
+                    <attribute id="FemaleCameraName" type="FixedString" value="Camera_02"/>
+                    <attribute id="FemaleRootTemplate" type="guid" value="dd86886c-a466-415a-9b7b-5be0c2c0b535"/>
+                    <attribute id="MaleCameraName" type="FixedString" value="Camera_02"/>
+                    <attribute id="MaleRootTemplate" type="guid" value="fb7a1a23-4ac5-4e77-8015-b2d284a1e446"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="d6b17741-c44d-f31f-26ae-9f7b05bd471e"/>
+                    <attribute id="MaterialType" type="FixedString" value="Tattoo"/>
+                    <attribute id="Name" type="FixedString" value="Tattoo_14_000"/>
+                    <attribute id="UUID" type="guid" value="10bb8546-fe9a-4a0b-a17d-73810d8607ba"/>
+                </node>
+                <node id="CharacterCreationAppearanceMaterial">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hc79ff594gbbb4g89c6ge504gc0a4643d6d4d" version="2"/>
+                    <attribute id="FemaleCameraName" type="FixedString" value="Camera_01"/>
+                    <attribute id="FemaleRootTemplate" type="guid" value="dd86886c-a466-415a-9b7b-5be0c2c0b535"/>
+                    <attribute id="MaleCameraName" type="FixedString" value="Camera_01"/>
+                    <attribute id="MaleRootTemplate" type="guid" value="fb7a1a23-4ac5-4e77-8015-b2d284a1e446"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="387b576e-2463-4132-2433-e37ad60a658c"/>
+                    <attribute id="MaterialType" type="FixedString" value="Tattoo"/>
+                    <attribute id="Name" type="FixedString" value="Tattoo_15_000"/>
+                    <attribute id="UUID" type="guid" value="4d8e1ccc-648a-4cb9-9fc7-4555a89f5912"/>
+                </node>
+                <node id="CharacterCreationAppearanceMaterial">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hc97dbf11gbff0g14f9g08ecg89648f9111d6" version="2"/>
+                    <attribute id="FemaleCameraName" type="FixedString" value="Camera_02"/>
+                    <attribute id="FemaleRootTemplate" type="guid" value="dd86886c-a466-415a-9b7b-5be0c2c0b535"/>
+                    <attribute id="MaleCameraName" type="FixedString" value="Camera_02"/>
+                    <attribute id="MaleRootTemplate" type="guid" value="fb7a1a23-4ac5-4e77-8015-b2d284a1e446"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="3586cb74-8a29-9168-6619-8f36fa5168ca"/>
+                    <attribute id="MaterialType" type="FixedString" value="Tattoo"/>
+                    <attribute id="Name" type="FixedString" value="Tattoo_16_000"/>
+                    <attribute id="UUID" type="guid" value="28917b61-431b-4877-931f-92901dd0bfca"/>
+                </node>
+                <node id="CharacterCreationAppearanceMaterial">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h8e81e773ge962g0030gf8e1g297db965a97c" version="2"/>
+                    <attribute id="FemaleCameraName" type="FixedString" value="Camera_01"/>
+                    <attribute id="FemaleRootTemplate" type="guid" value="dd86886c-a466-415a-9b7b-5be0c2c0b535"/>
+                    <attribute id="MaleCameraName" type="FixedString" value="Camera_01"/>
+                    <attribute id="MaleRootTemplate" type="guid" value="fb7a1a23-4ac5-4e77-8015-b2d284a1e446"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="b3a01216-1db4-6b66-abc5-dc21c9f57461"/>
+                    <attribute id="MaterialType" type="FixedString" value="Tattoo"/>
+                    <attribute id="Name" type="FixedString" value="Tattoo_17_000"/>
+                    <attribute id="UUID" type="guid" value="e62bfb14-b6dd-46d5-8ad0-bde5cb167fa2"/>
+                </node>
+                <node id="CharacterCreationAppearanceMaterial">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hac5ef4f5gf05dgcc3cgcddag603470e80de7" version="2"/>
+                    <attribute id="FemaleCameraName" type="FixedString" value="Camera_02"/>
+                    <attribute id="FemaleRootTemplate" type="guid" value="dd86886c-a466-415a-9b7b-5be0c2c0b535"/>
+                    <attribute id="MaleCameraName" type="FixedString" value="Camera_02"/>
+                    <attribute id="MaleRootTemplate" type="guid" value="fb7a1a23-4ac5-4e77-8015-b2d284a1e446"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="75605980-c74b-7bcb-eae6-b86f8ee179ce"/>
+                    <attribute id="MaterialType" type="FixedString" value="Tattoo"/>
+                    <attribute id="Name" type="FixedString" value="Tattoo_18_000"/>
+                    <attribute id="UUID" type="guid" value="f41e8a5b-fc76-4aa6-913e-34c12442d0bb"/>
+                </node>
+                <node id="CharacterCreationAppearanceMaterial">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h5e0fb8adg23e3ge93fg01f1gc0feed21d3a4" version="2"/>
+                    <attribute id="FemaleCameraName" type="FixedString" value="Camera_01"/>
+                    <attribute id="FemaleRootTemplate" type="guid" value="dd86886c-a466-415a-9b7b-5be0c2c0b535"/>
+                    <attribute id="MaleCameraName" type="FixedString" value="Camera_01"/>
+                    <attribute id="MaleRootTemplate" type="guid" value="fb7a1a23-4ac5-4e77-8015-b2d284a1e446"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="b09ac0fa-2896-08e7-054e-20cb7bba1045"/>
+                    <attribute id="MaterialType" type="FixedString" value="Tattoo"/>
+                    <attribute id="Name" type="FixedString" value="Tattoo_19_000"/>
+                    <attribute id="UUID" type="guid" value="d816f9d5-0523-4475-a3f6-5402d7acbe0d"/>
+                </node>
+                <node id="CharacterCreationAppearanceMaterial">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h9eeb09aeg463egedc1g6d7dgdec1b668be25" version="2"/>
+                    <attribute id="FemaleCameraName" type="FixedString" value="Camera_02"/>
+                    <attribute id="FemaleRootTemplate" type="guid" value="dd86886c-a466-415a-9b7b-5be0c2c0b535"/>
+                    <attribute id="MaleCameraName" type="FixedString" value="Camera_02"/>
+                    <attribute id="MaleRootTemplate" type="guid" value="fb7a1a23-4ac5-4e77-8015-b2d284a1e446"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="30b8eedd-8e51-0c77-aa93-d241632991fd"/>
+                    <attribute id="MaterialType" type="FixedString" value="Tattoo"/>
+                    <attribute id="Name" type="FixedString" value="Tattoo_20_000"/>
+                    <attribute id="UUID" type="guid" value="bac6a612-145f-4a05-a430-9fcdb6d7b65b"/>
+                </node>
+                <node id="CharacterCreationAppearanceMaterial">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h467e9b74g4251g27c0gf3f3gc65ceedd444a" version="2"/>
+                    <attribute id="FemaleCameraName" type="FixedString" value="Camera_02"/>
+                    <attribute id="FemaleRootTemplate" type="guid" value="dd86886c-a466-415a-9b7b-5be0c2c0b535"/>
+                    <attribute id="MaleCameraName" type="FixedString" value="Camera_02"/>
+                    <attribute id="MaleRootTemplate" type="guid" value="fb7a1a23-4ac5-4e77-8015-b2d284a1e446"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="acdaa9f3-ca0e-f21f-ec7b-519b7ff53839"/>
+                    <attribute id="MaterialType" type="FixedString" value="Tattoo"/>
+                    <attribute id="Name" type="FixedString" value="Tattoo_21_000"/>
+                    <attribute id="UUID" type="guid" value="667a22df-5efe-458e-9baa-4db06ae0226e"/>
+                </node>
+                <node id="CharacterCreationAppearanceMaterial">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h53720fbdg5d35g2c4bg2aefg55d3b301d1bf" version="2"/>
+                    <attribute id="FemaleCameraName" type="FixedString" value="Camera_01"/>
+                    <attribute id="FemaleRootTemplate" type="guid" value="dd86886c-a466-415a-9b7b-5be0c2c0b535"/>
+                    <attribute id="MaleCameraName" type="FixedString" value="Camera_01"/>
+                    <attribute id="MaleRootTemplate" type="guid" value="fb7a1a23-4ac5-4e77-8015-b2d284a1e446"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="afcd1681-fdbb-24ac-05c4-37904fa24780"/>
+                    <attribute id="MaterialType" type="FixedString" value="Tattoo"/>
+                    <attribute id="Name" type="FixedString" value="Tattoo_22_000"/>
+                    <attribute id="UUID" type="guid" value="a5fba420-6d37-49da-bdb5-bc11d8f18b84"/>
+                </node>
+                <node id="CharacterCreationAppearanceMaterial">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h12402901g348egf0e4gadffgf872104af8b1" version="2"/>
+                    <attribute id="FemaleCameraName" type="FixedString" value="Camera_02"/>
+                    <attribute id="FemaleRootTemplate" type="guid" value="dd86886c-a466-415a-9b7b-5be0c2c0b535"/>
+                    <attribute id="MaleCameraName" type="FixedString" value="Camera_02"/>
+                    <attribute id="MaleRootTemplate" type="guid" value="fb7a1a23-4ac5-4e77-8015-b2d284a1e446"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="ece985f8-17fd-3f49-4cd2-80bf6bbb205d"/>
+                    <attribute id="MaterialType" type="FixedString" value="Tattoo"/>
+                    <attribute id="Name" type="FixedString" value="Tattoo_23_000"/>
+                    <attribute id="UUID" type="guid" value="75d4f9ac-67f9-413c-98d7-04817c8cd69f"/>
+                </node>
+                <node id="CharacterCreationAppearanceMaterial">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hc69dc38bgaeeegec07g0a57g6ad8bcf4989a" version="2"/>
+                    <attribute id="FemaleCameraName" type="FixedString" value="Camera_01"/>
+                    <attribute id="FemaleRootTemplate" type="guid" value="dd86886c-a466-415a-9b7b-5be0c2c0b535"/>
+                    <attribute id="MaleCameraName" type="FixedString" value="Camera_01"/>
+                    <attribute id="MaleRootTemplate" type="guid" value="fb7a1a23-4ac5-4e77-8015-b2d284a1e446"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="1c06afce-0fe0-169a-9f3a-118dae498816"/>
+                    <attribute id="MaterialType" type="FixedString" value="Tattoo"/>
+                    <attribute id="Name" type="FixedString" value="Tattoo_24_000"/>
+                    <attribute id="UUID" type="guid" value="1860c6dc-0f8d-42fb-992b-f938902a0d4c"/>
+                </node>
+                <node id="CharacterCreationAppearanceMaterial">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h18f4d89cg2092ga7e6g08ddg7cfb208f55d1" version="2"/>
+                    <attribute id="FemaleCameraName" type="FixedString" value="Camera_02"/>
+                    <attribute id="FemaleRootTemplate" type="guid" value="dd86886c-a466-415a-9b7b-5be0c2c0b535"/>
+                    <attribute id="MaleCameraName" type="FixedString" value="Camera_02"/>
+                    <attribute id="MaleRootTemplate" type="guid" value="fb7a1a23-4ac5-4e77-8015-b2d284a1e446"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="705386ad-0678-b446-bc46-03963ca3892f"/>
+                    <attribute id="MaterialType" type="FixedString" value="Tattoo"/>
+                    <attribute id="Name" type="FixedString" value="Tattoo_25_000"/>
+                    <attribute id="UUID" type="guid" value="8cca3f55-8f9d-4da3-9fc7-9ef1a913096f"/>
+                </node>
+                <node id="CharacterCreationAppearanceMaterial">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hfa1c6b45g1ea3g722dg715bg009bc8d174ba" version="2"/>
+                    <attribute id="FemaleCameraName" type="FixedString" value="Camera_01"/>
+                    <attribute id="FemaleRootTemplate" type="guid" value="dd86886c-a466-415a-9b7b-5be0c2c0b535"/>
+                    <attribute id="MaleCameraName" type="FixedString" value="Camera_01"/>
+                    <attribute id="MaleRootTemplate" type="guid" value="fb7a1a23-4ac5-4e77-8015-b2d284a1e446"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="5df4250c-69b1-0d5b-3c3e-7770e94dfa65"/>
+                    <attribute id="MaterialType" type="FixedString" value="Tattoo"/>
+                    <attribute id="Name" type="FixedString" value="Tattoo_26_000"/>
+                    <attribute id="UUID" type="guid" value="6bda9762-48da-443b-a61d-1feb38096527"/>
+                </node>
+                <node id="CharacterCreationAppearanceMaterial">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h9d7547a7g28c9gabb8g5d9cg87e97c7691d1" version="1"/>
+                    <attribute id="FemaleCameraName" type="FixedString" value="Camera_02"/>
+                    <attribute id="FemaleRootTemplate" type="guid" value="7957d6fb-e8e1-4017-af63-56d4854fd84f"/>
+                    <attribute id="MaleCameraName" type="FixedString" value="Camera_02"/>
+                    <attribute id="MaleRootTemplate" type="guid" value="903b38b5-2703-40b4-9208-3ef388817543"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="23977b60-4a4e-cfe0-b41f-7c0a8f8852f4"/>
+                    <attribute id="MaterialType" type="FixedString" value="Tattoo"/>
+                    <attribute id="Name" type="FixedString" value="Tattoo_27"/>
+                    <attribute id="UUID" type="guid" value="e9673501-9a8c-47fd-865c-616fb45e1095"/>
+                </node>
+                <node id="CharacterCreationAppearanceMaterial">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h750d60c5g446cg8075g9689gfa64d7aa1539" version="1"/>
+                    <attribute id="FemaleCameraName" type="FixedString" value="Camera_02"/>
+                    <attribute id="FemaleRootTemplate" type="guid" value="dd86886c-a466-415a-9b7b-5be0c2c0b535"/>
+                    <attribute id="MaleCameraName" type="FixedString" value="Camera_02"/>
+                    <attribute id="MaleRootTemplate" type="guid" value="fb7a1a23-4ac5-4e77-8015-b2d284a1e446"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="d2aba10a-feb5-0942-e528-20da6a5f2832"/>
+                    <attribute id="MaterialType" type="FixedString" value="Tattoo"/>
+                    <attribute id="Name" type="FixedString" value="Tattoo_28"/>
+                    <attribute id="UUID" type="guid" value="563b6616-379f-407b-aaa3-40a720dfab48"/>
+                </node>
+                <node id="CharacterCreationAppearanceMaterial">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h5e945c78g9f41gb799gaf39g78b6d5a1b55b" version="1"/>
+                    <attribute id="FemaleCameraName" type="FixedString" value="Camera_02"/>
+                    <attribute id="FemaleRootTemplate" type="guid" value="7957d6fb-e8e1-4017-af63-56d4854fd84f"/>
+                    <attribute id="MaleCameraName" type="FixedString" value="Camera_02"/>
+                    <attribute id="MaleRootTemplate" type="guid" value="903b38b5-2703-40b4-9208-3ef388817543"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="17b3d836-c735-1a79-47e3-d15f3b2b9217"/>
+                    <attribute id="MaterialType" type="FixedString" value="Tattoo"/>
+                    <attribute id="Name" type="FixedString" value="Tattoo_29"/>
+                    <attribute id="UUID" type="guid" value="e47d5e57-8c1a-457f-bc7c-9b5a2f4a21c8"/>
+                </node>
+                <node id="CharacterCreationAppearanceMaterial">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h9fe0771eg2c84g9c65gbde2gcce804f0e259" version="1"/>
+                    <attribute id="FemaleCameraName" type="FixedString" value="Camera_02"/>
+                    <attribute id="FemaleRootTemplate" type="guid" value="7957d6fb-e8e1-4017-af63-56d4854fd84f"/>
+                    <attribute id="MaleCameraName" type="FixedString" value="Camera_02"/>
+                    <attribute id="MaleRootTemplate" type="guid" value="903b38b5-2703-40b4-9208-3ef388817543"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="75858dcf-160e-3ca4-8a17-7663be1b4d77"/>
+                    <attribute id="MaterialType" type="FixedString" value="Tattoo"/>
+                    <attribute id="Name" type="FixedString" value="Tattoo_30"/>
+                    <attribute id="UUID" type="guid" value="46f426d3-7181-4174-8b65-ddc3b317526b"/>
+                </node>
+                <node id="CharacterCreationAppearanceMaterial">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h84aa730dg698fg83eag65bag1e2aacd7bc19" version="1"/>
+                    <attribute id="FemaleCameraName" type="FixedString" value="Camera_02"/>
+                    <attribute id="FemaleRootTemplate" type="guid" value="7957d6fb-e8e1-4017-af63-56d4854fd84f"/>
+                    <attribute id="MaleCameraName" type="FixedString" value="Camera_02"/>
+                    <attribute id="MaleRootTemplate" type="guid" value="903b38b5-2703-40b4-9208-3ef388817543"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="58db0813-72d5-e3c8-b9f5-d4dac81ff37b"/>
+                    <attribute id="MaterialType" type="FixedString" value="Tattoo"/>
+                    <attribute id="Name" type="FixedString" value="Tattoo_31"/>
+                    <attribute id="UUID" type="guid" value="c2910ca2-94a1-4646-b4da-4498bee5a908"/>
+                </node>
+                <node id="CharacterCreationAppearanceMaterial">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h69541c54gd218g3adbg3f3ega482b177fc2f" version="1"/>
+                    <attribute id="FemaleCameraName" type="FixedString" value="Camera_02"/>
+                    <attribute id="FemaleRootTemplate" type="guid" value="7957d6fb-e8e1-4017-af63-56d4854fd84f"/>
+                    <attribute id="MaleCameraName" type="FixedString" value="Camera_02"/>
+                    <attribute id="MaleRootTemplate" type="guid" value="903b38b5-2703-40b4-9208-3ef388817543"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="fc1da0b1-a423-f7d7-ba2d-bda8bf664116"/>
+                    <attribute id="MaterialType" type="FixedString" value="Tattoo"/>
+                    <attribute id="Name" type="FixedString" value="Tattoo_32"/>
+                    <attribute id="UUID" type="guid" value="b7b5bc66-aab6-4b23-8d30-74593f98eac9"/>
+                </node>
+                <node id="CharacterCreationAppearanceMaterial">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hb4a8a0e9gc03fgfee7g9499g7a9bf3fec1f6" version="1"/>
+                    <attribute id="FemaleCameraName" type="FixedString" value="Camera_02"/>
+                    <attribute id="FemaleRootTemplate" type="guid" value="7957d6fb-e8e1-4017-af63-56d4854fd84f"/>
+                    <attribute id="MaleCameraName" type="FixedString" value="Camera_02"/>
+                    <attribute id="MaleRootTemplate" type="guid" value="903b38b5-2703-40b4-9208-3ef388817543"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="d21fb788-4c4d-b4c8-e56d-a4fadac33d8f"/>
+                    <attribute id="MaterialType" type="FixedString" value="Tattoo"/>
+                    <attribute id="Name" type="FixedString" value="Tattoo_33"/>
+                    <attribute id="UUID" type="guid" value="652623b0-0e1a-4999-8750-d06702451815"/>
+                </node>
+                <node id="CharacterCreationAppearanceMaterial">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h48db41d9gb8c3g07a4geef6g00853b826843" version="1"/>
+                    <attribute id="FemaleCameraName" type="FixedString" value="Camera_02"/>
+                    <attribute id="FemaleRootTemplate" type="guid" value="dd86886c-a466-415a-9b7b-5be0c2c0b535"/>
+                    <attribute id="MaleCameraName" type="FixedString" value="Camera_02"/>
+                    <attribute id="MaleRootTemplate" type="guid" value="fb7a1a23-4ac5-4e77-8015-b2d284a1e446"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="40863bcf-8ca7-c155-30e2-42a5899ba3c9"/>
+                    <attribute id="MaterialType" type="FixedString" value="Tattoo"/>
+                    <attribute id="Name" type="FixedString" value="Tattoo_34"/>
+                    <attribute id="UUID" type="guid" value="e88c211f-698a-4108-89cc-dea52d757170"/>
+                </node>
+                <node id="CharacterCreationAppearanceMaterial">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h130cb506g6d35g891ag1099g0414e41ced80" version="1"/>
+                    <attribute id="FemaleCameraName" type="FixedString" value="Camera_02"/>
+                    <attribute id="FemaleRootTemplate" type="guid" value="7957d6fb-e8e1-4017-af63-56d4854fd84f"/>
+                    <attribute id="MaleCameraName" type="FixedString" value="Camera_02"/>
+                    <attribute id="MaleRootTemplate" type="guid" value="903b38b5-2703-40b4-9208-3ef388817543"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="b79c9910-a40a-874e-86d0-137da2c3bc26"/>
+                    <attribute id="MaterialType" type="FixedString" value="Tattoo"/>
+                    <attribute id="Name" type="FixedString" value="Tattoo_35"/>
+                    <attribute id="UUID" type="guid" value="7d97ca24-ac17-46b4-af80-9b53a4e13407"/>
+                </node>
+                <node id="CharacterCreationAppearanceMaterial">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h34d8b446g8b76g3463g0c2dgc07f8b39cccb" version="1"/>
+                    <attribute id="FemaleCameraName" type="FixedString" value="Camera_02"/>
+                    <attribute id="FemaleRootTemplate" type="guid" value="7957d6fb-e8e1-4017-af63-56d4854fd84f"/>
+                    <attribute id="MaleCameraName" type="FixedString" value="Camera_02"/>
+                    <attribute id="MaleRootTemplate" type="guid" value="903b38b5-2703-40b4-9208-3ef388817543"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="70823792-8695-06f1-0e7e-96010754c7a1"/>
+                    <attribute id="MaterialType" type="FixedString" value="Tattoo"/>
+                    <attribute id="Name" type="FixedString" value="Tattoo_36"/>
+                    <attribute id="UUID" type="guid" value="8395e32e-03f4-42ce-be0a-3f680221ba52"/>
+                </node>
+                <node id="CharacterCreationAppearanceMaterial">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hf70f613bge79fg9629g351dgf7d11ed7bd9e" version="1"/>
+                    <attribute id="FemaleCameraName" type="FixedString" value="Camera_02"/>
+                    <attribute id="FemaleRootTemplate" type="guid" value="7957d6fb-e8e1-4017-af63-56d4854fd84f"/>
+                    <attribute id="MaleCameraName" type="FixedString" value="Camera_02"/>
+                    <attribute id="MaleRootTemplate" type="guid" value="903b38b5-2703-40b4-9208-3ef388817543"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="345c52f2-99a8-1187-bd15-23b507e35482"/>
+                    <attribute id="MaterialType" type="FixedString" value="Tattoo"/>
+                    <attribute id="Name" type="FixedString" value="Tattoo_37"/>
+                    <attribute id="UUID" type="guid" value="fedadcbc-f163-40f1-b2ec-bcf8d566ea35"/>
+                </node>
+                <node id="CharacterCreationAppearanceMaterial">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hb16a65b4gb59ag9e87g028eg72b458f08f6f" version="1"/>
+                    <attribute id="FemaleCameraName" type="FixedString" value="Camera_02"/>
+                    <attribute id="FemaleRootTemplate" type="guid" value="7957d6fb-e8e1-4017-af63-56d4854fd84f"/>
+                    <attribute id="MaleCameraName" type="FixedString" value="Camera_02"/>
+                    <attribute id="MaleRootTemplate" type="guid" value="903b38b5-2703-40b4-9208-3ef388817543"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="5fb0b001-5d28-f575-d9a8-c2265195bd12"/>
+                    <attribute id="MaterialType" type="FixedString" value="Tattoo"/>
+                    <attribute id="Name" type="FixedString" value="Tattoo_38"/>
+                    <attribute id="UUID" type="guid" value="94341107-0686-45b7-9dc4-42cd2de2e0ab"/>
+                </node>
+                <node id="CharacterCreationAppearanceMaterial">
+                    <attribute id="DisplayName" type="TranslatedString" handle="he8dd037dgf25agdf56g7ca7g3b586d680928" version="1"/>
+                    <attribute id="FemaleCameraName" type="FixedString" value="Camera_02"/>
+                    <attribute id="FemaleRootTemplate" type="guid" value="7957d6fb-e8e1-4017-af63-56d4854fd84f"/>
+                    <attribute id="MaleCameraName" type="FixedString" value="Camera_02"/>
+                    <attribute id="MaleRootTemplate" type="guid" value="903b38b5-2703-40b4-9208-3ef388817543"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="b9f824a4-1dbf-04ba-9649-990c43ff1248"/>
+                    <attribute id="MaterialType" type="FixedString" value="Tattoo"/>
+                    <attribute id="Name" type="FixedString" value="Tattoo_39"/>
+                    <attribute id="UUID" type="guid" value="89d81c57-0af5-4e3d-9697-ff6c05364051"/>
+                </node>
+                <node id="CharacterCreationAppearanceMaterial">
+                    <attribute id="DisplayName" type="TranslatedString" handle="ha47afdb4g0873g75d1g71a8g8f687bb4b582" version="1"/>
+                    <attribute id="FemaleCameraName" type="FixedString" value="Camera_02"/>
+                    <attribute id="FemaleRootTemplate" type="guid" value="7957d6fb-e8e1-4017-af63-56d4854fd84f"/>
+                    <attribute id="MaleCameraName" type="FixedString" value="Camera_02"/>
+                    <attribute id="MaleRootTemplate" type="guid" value="903b38b5-2703-40b4-9208-3ef388817543"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="f6a1ac6e-1603-3b57-0251-fd68303fe02f"/>
+                    <attribute id="MaterialType" type="FixedString" value="Tattoo"/>
+                    <attribute id="Name" type="FixedString" value="Tattoo_40"/>
+                    <attribute id="UUID" type="guid" value="3143675c-bb95-4d96-8707-c83ee24c273f"/>
+                </node>
+                <node id="CharacterCreationAppearanceMaterial">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h0eaabe37ge82cgea2ag4730ga6e0c13b481d" version="1"/>
+                    <attribute id="FemaleCameraName" type="FixedString" value="Camera_02"/>
+                    <attribute id="FemaleRootTemplate" type="guid" value="7957d6fb-e8e1-4017-af63-56d4854fd84f"/>
+                    <attribute id="MaleCameraName" type="FixedString" value="Camera_02"/>
+                    <attribute id="MaleRootTemplate" type="guid" value="903b38b5-2703-40b4-9208-3ef388817543"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="082009ed-cf3e-2cdf-6ad8-bfb1f0e214dc"/>
+                    <attribute id="MaterialType" type="FixedString" value="Tattoo"/>
+                    <attribute id="Name" type="FixedString" value="Tattoo_41"/>
+                    <attribute id="UUID" type="guid" value="d9fefbed-b951-4b71-bcc6-5d8a23ae9753"/>
+                </node>
+                <node id="CharacterCreationAppearanceMaterial">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hf5557af8g8e0egd7dcg2676g56f455becc2e" version="1"/>
+                    <attribute id="FemaleCameraName" type="FixedString" value="Camera_02"/>
+                    <attribute id="FemaleRootTemplate" type="guid" value="7957d6fb-e8e1-4017-af63-56d4854fd84f"/>
+                    <attribute id="MaleCameraName" type="FixedString" value="Camera_02"/>
+                    <attribute id="MaleRootTemplate" type="guid" value="903b38b5-2703-40b4-9208-3ef388817543"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="6cee35a6-1438-8b8d-fc8b-afac561a85d5"/>
+                    <attribute id="MaterialType" type="FixedString" value="Tattoo"/>
+                    <attribute id="Name" type="FixedString" value="Tattoo_42"/>
+                    <attribute id="UUID" type="guid" value="f5611678-be1f-4f76-9398-d257083858a8"/>
+                </node>
+                <node id="CharacterCreationAppearanceMaterial">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h4b78eeebga7b5ga2c9gecc2g4452dc098c0c" version="1"/>
+                    <attribute id="FemaleCameraName" type="FixedString" value="Camera_02"/>
+                    <attribute id="FemaleRootTemplate" type="guid" value="dd86886c-a466-415a-9b7b-5be0c2c0b535"/>
+                    <attribute id="MaleCameraName" type="FixedString" value="Camera_02"/>
+                    <attribute id="MaleRootTemplate" type="guid" value="fb7a1a23-4ac5-4e77-8015-b2d284a1e446"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="6204bb5c-146a-0d3b-0bf5-80a87bbb3c68"/>
+                    <attribute id="MaterialType" type="FixedString" value="Tattoo"/>
+                    <attribute id="Name" type="FixedString" value="Tattoo_43"/>
+                    <attribute id="UUID" type="guid" value="985cb3e2-dda7-455e-90cb-058d3d0dfdcf"/>
+                </node>
+                <node id="CharacterCreationAppearanceMaterial">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h61953dd4gbc09gaa54g39ddg9e12410af403" version="1"/>
+                    <attribute id="FemaleCameraName" type="FixedString" value="Camera_01"/>
+                    <attribute id="FemaleRootTemplate" type="guid" value="7957d6fb-e8e1-4017-af63-56d4854fd84f"/>
+                    <attribute id="MaleCameraName" type="FixedString" value="Camera_01"/>
+                    <attribute id="MaleRootTemplate" type="guid" value="903b38b5-2703-40b4-9208-3ef388817543"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="76b461cd-a4f9-6eb4-911c-bc35770b9bb6"/>
+                    <attribute id="MaterialType" type="FixedString" value="Tattoo"/>
+                    <attribute id="Name" type="FixedString" value="Tattoo_44"/>
+                    <attribute id="UUID" type="guid" value="a830fd8c-ee88-4459-a78c-e879dcd5f5fc"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

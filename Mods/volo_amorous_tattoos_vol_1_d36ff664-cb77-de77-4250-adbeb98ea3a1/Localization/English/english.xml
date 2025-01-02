@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <content contentuid="hd8d554c4g58feg988bgbf57gf57ed0a0f9b8" version="1">No Tattoo</content>
+  <content contentuid="hdc59ce32g9483g4858gf305gaadeab13f305" version="2">Astarion Banner (Front)</content>
+  <content contentuid="hd60d9542g70c8g7a05ga1ddg4a78007eaa9f" version="2">Astarion Banner (Side)</content>
+  <content contentuid="hd13bc5f8g1c37gfd29g7fc1g7b8d67c5b3e7" version="2">Astarion Fang Banger (Front)</content>
+  <content contentuid="heba15d3fgb3cbg9d40ge468gf2225495fd07" version="2">Astarion Fang Banger (Side)</content>
+  <content contentuid="ha34e0d38g5cbbg39b9g7099g2d04cf830a03" version="2">Astarion Fangs</content>
+  <content contentuid="h1f7ac3c9g5466ge6cdg25f3g900987607528" version="2">Astarion Name Heart (Front)</content>
+  <content contentuid="h29e84bbcg6015g5d54g0778g039d1e112109" version="2">Astarion Name Heart (Side)</content>
+  <content contentuid="h3c91f19eg8807g3aeagbf92g11adfc1111db" version="2">Lae'zel Banner (Front)</content>
+  <content contentuid="h63013f99gfccfgbb6fgb6f3g86c4ef6ccae6" version="2">Lae'zel Banner (Side)</content>
+  <content contentuid="h05a921d8gfe33g36cbga334g0d950c91b1e6" version="2">Lae'zel Gith Empire (Front)</content>
+  <content contentuid="hf1321a17gfd3bg51c2gf7degb3cf4859326f" version="2">Lae'zel Gith Empire (Side)</content>
+  <content contentuid="h6e1913d3gfdc6g3b49gb1a7gf670141bf1df" version="2">Lae'zel Name Heart (Front)</content>
+  <content contentuid="h6e2a6862g8a5cgca68ge62dg7967dcbc8cc1" version="2">Lae'zel Name Heart (Side)</content>
+  <content contentuid="hf35d69bbg9b99g4673g610ag3ce9c1c8dd3a" version="2">Lae'zel Tir'su (Front)</content>
+  <content contentuid="hc79ff594gbbb4g89c6ge504gc0a4643d6d4d" version="2">Lae'zel Tir'su (Side)</content>
+  <content contentuid="hc97dbf11gbff0g14f9g08ecg89648f9111d6" version="2">Minthara Banner (Front)</content>
+  <content contentuid="h8e81e773ge962g0030gf8e1g297db965a97c" version="2">Minthara Banner (Side)</content>
+  <content contentuid="hac5ef4f5gf05dgcc3cgcddag603470e80de7" version="2">Minthara Name Heart (Front)</content>
+  <content contentuid="h5e0fb8adg23e3ge93fg01f1gc0feed21d3a4" version="2">Minthara Name Heart (Side)</content>
+  <content contentuid="h9eeb09aeg463egedc1g6d7dgdec1b668be25" version="2">Minthara Spider Web</content>
+  <content contentuid="h467e9b74g4251g27c0gf3f3gc65ceedd444a" version="2">Shadowheart Banner (Front)</content>
+  <content contentuid="h53720fbdg5d35g2c4bg2aefg55d3b301d1bf" version="2">Shadowheart Banner (Side)</content>
+  <content contentuid="h12402901g348egf0e4gadffgf872104af8b1" version="2">Shadow Heart (Front)</content>
+  <content contentuid="hc69dc38bgaeeegec07g0a57g6ad8bcf4989a" version="2">Shadow Heart (Side)</content>
+  <content contentuid="h18f4d89cg2092ga7e6g08ddg7cfb208f55d1" version="2">Shadowheart Shart Heart (Front)</content>
+  <content contentuid="hfa1c6b45g1ea3g722dg715bg009bc8d174ba" version="2">Shadowheart Shart Heart (Side)</content>
+  <content contentuid="h9d7547a7g28c9gabb8g5d9cg87e97c7691d1" version="1">From The Deep</content>
+  <content contentuid="h750d60c5g446cg8075g9689gfa64d7aa1539" version="1">Beholder Gorgon</content>
+  <content contentuid="h5e945c78g9f41gb799gaf39g78b6d5a1b55b" version="1">Chastened</content>
+  <content contentuid="h9fe0771eg2c84g9c65gbde2gcce804f0e259" version="1">Blake Tiger</content>
+  <content contentuid="h84aa730dg698fg83eag65bag1e2aacd7bc19" version="1">Sharp Candelabra </content>
+  <content contentuid="h69541c54gd218g3adbg3f3ega482b177fc2f" version="1">Polkadots</content>
+  <content contentuid="hb4a8a0e9gc03fgfee7g9499g7a9bf3fec1f6" version="1">Wicked Reaper</content>
+  <content contentuid="h48db41d9gb8c3g07a4geef6g00853b826843" version="1">Brokenshard Sword</content>
+  <content contentuid="h130cb506g6d35g891ag1099g0414e41ced80" version="1">Guerilla</content>
+  <content contentuid="h34d8b446g8b76g3463g0c2dgc07f8b39cccb" version="1">War Boars</content>
+  <content contentuid="hf70f613bge79fg9629g351dgf7d11ed7bd9e" version="1">Masque of Wrath</content>
+  <content contentuid="hb16a65b4gb59ag9e87g028eg72b458f08f6f" version="1">Ivy Trellis</content>
+  <content contentuid="he8dd037dgf25agdf56g7ca7g3b586d680928" version="1">Searching Chains</content>
+  <content contentuid="ha47afdb4g0873g75d1g71a8g8f687bb4b582" version="1">Mechanus Moons</content>
+  <content contentuid="h0eaabe37ge82cgea2ag4730ga6e0c13b481d" version="1">Centipedes</content>
+  <content contentuid="hf5557af8g8e0egd7dcg2676g56f455becc2e" version="1">Mud Worms</content>
+  <content contentuid="h4b78eeebga7b5ga2c9gecc2g4452dc098c0c" version="1">Macabre Chinstrap</content>
+  <content contentuid="h61953dd4gbc09gaa54g39ddg9e12410af403" version="1">Dread Fog</content>
+</contentList>

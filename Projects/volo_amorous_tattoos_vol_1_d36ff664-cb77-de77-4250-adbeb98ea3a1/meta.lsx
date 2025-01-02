@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="GameProject" type="LSString" value=""/>
+            <attribute id="Module" type="LSString" value="d36ff664-cb77-de77-4250-adbeb98ea3a1"/>
+            <attribute id="Name" type="LSString" value="volo_amorous_tattoos_vol_1"/>
+            <attribute id="UUID" type="LSString" value="478968d3-b0db-9615-4ca9-6bd34c355b2c"/>
+            <children>
+                <node id="Categories"/>
+            </children>
+        </node>
+    </region>
+</save>
